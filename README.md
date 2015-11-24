@@ -3,7 +3,7 @@ Demo for the tutorial on how to create a Shazam-like button that morphs into a m
 
 [Article on Codrops](http://tympanus.net/codrops/?p=25575)
 
-[Demo](http://tympanus.net/Tutorials/ShazamPlayerEffect/)
+[Demo](http://tympanus.net/Tutorials/ShazamButtonEffect/)
 
 ## License
 
